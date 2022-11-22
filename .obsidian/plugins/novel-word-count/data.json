@@ -11,6 +11,15 @@
     "pageCountType": "ByWords"
   },
   "cachedCounts": {
+    "README.md": {
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 235,
+      "nonWhitespaceCharacterCount": 215,
+      "createdDate": 1669123410196,
+      "modifiedDate": 1669123487624
+    },
     "React and TypeScript/useState, an exercise.md": {
       "noteCount": 1,
       "wordCount": 76,
@@ -497,6 +506,15 @@
       "createdDate": 1668517222754,
       "modifiedDate": 1668517228475
     },
+    "React Performance/README.md": {
+      "noteCount": 1,
+      "wordCount": 217,
+      "pageCount": 0.7233333333333334,
+      "characterCount": 2561,
+      "nonWhitespaceCharacterCount": 2317,
+      "createdDate": 1666107916123,
+      "modifiedDate": 1668699381249
+    },
     "React Performance/useTransition.md": {
       "noteCount": 1,
       "wordCount": 295,
@@ -685,15 +703,6 @@
       "nonWhitespaceCharacterCount": 1396,
       "createdDate": 1666117262507,
       "modifiedDate": 1668595968219
-    },
-    "React Performance/README.md.md": {
-      "noteCount": 1,
-      "wordCount": 217,
-      "pageCount": 0.7233333333333334,
-      "characterCount": 2561,
-      "nonWhitespaceCharacterCount": 2317,
-      "createdDate": 1666107916123,
-      "modifiedDate": 1668699381249
     },
     "React Performance/Quick performance wins in React.md": {
       "noteCount": 1,
