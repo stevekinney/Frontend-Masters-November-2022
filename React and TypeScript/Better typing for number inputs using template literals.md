@@ -1,0 +1,1 @@
+Remember in that filtering exercise that I was complaining about `<input type="number" />` components and how they give me strings? Using `Number()`, the `+` unary operator, and `parseInt()` all had different drawbacks, but newer versions of TypeScript allow us greater flexibility with template literals. We can now refactor that code as follows:

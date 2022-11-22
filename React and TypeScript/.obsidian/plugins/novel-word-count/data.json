@@ -1,0 +1,501 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "useState, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 76,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 489,
+      "createdDate": 1667827646290,
+      "modifiedDate": 1668511153949
+    },
+    "useState, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 853,
+      "pageCount": 2.8433333333333333,
+      "characterCount": 5308,
+      "nonWhitespaceCharacterCount": 4381,
+      "createdDate": 1667828083564,
+      "modifiedDate": 1668511405052
+    },
+    "createContext.md": {
+      "noteCount": 1,
+      "wordCount": 712,
+      "pageCount": 2.3733333333333335,
+      "characterCount": 4710,
+      "nonWhitespaceCharacterCount": 3885,
+      "createdDate": 1668174962884,
+      "modifiedDate": 1668520779796
+    },
+    "Utility types.md": {
+      "noteCount": 1,
+      "wordCount": 736,
+      "pageCount": 2.453333333333333,
+      "characterCount": 3952,
+      "nonWhitespaceCharacterCount": 3110,
+      "createdDate": 1668203164894,
+      "modifiedDate": 1668520040560
+    },
+    "Using TypeScript without even trying.md": {
+      "noteCount": 1,
+      "wordCount": 427,
+      "pageCount": 1.4233333333333333,
+      "characterCount": 2765,
+      "nonWhitespaceCharacterCount": 2247,
+      "createdDate": 1666114426986,
+      "modifiedDate": 1668507745937
+    },
+    "Using state management and the Context API.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668519538051,
+      "modifiedDate": 1668519538051
+    },
+    "Typing reducers.md": {
+      "noteCount": 1,
+      "wordCount": 1414,
+      "pageCount": 4.713333333333333,
+      "characterCount": 10613,
+      "nonWhitespaceCharacterCount": 8768,
+      "createdDate": 1667836796386,
+      "modifiedDate": 1668516450374
+    },
+    "Typing children, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 313,
+      "pageCount": 1.0433333333333332,
+      "characterCount": 2227,
+      "nonWhitespaceCharacterCount": 1764,
+      "createdDate": 1666114430033,
+      "modifiedDate": 1668510091341
+    },
+    "Typing children, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 351,
+      "pageCount": 1.17,
+      "characterCount": 2541,
+      "nonWhitespaceCharacterCount": 1996,
+      "createdDate": 1667780759888,
+      "modifiedDate": 1668510204284
+    },
+    "Types versus interfaces.md": {
+      "noteCount": 1,
+      "wordCount": 188,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1342,
+      "nonWhitespaceCharacterCount": 1139,
+      "createdDate": 1668223779188,
+      "modifiedDate": 1668223852182
+    },
+    "Typing actions and reducers, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 245,
+      "pageCount": 0.8166666666666667,
+      "characterCount": 2093,
+      "nonWhitespaceCharacterCount": 1657,
+      "createdDate": 1668174870484,
+      "modifiedDate": 1668519438087
+    },
+    "Typing actions and reducers, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 91,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 597,
+      "nonWhitespaceCharacterCount": 504,
+      "createdDate": 1668199604085,
+      "modifiedDate": 1668519394891
+    },
+    "TypeScript's unions in React.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 475,
+      "nonWhitespaceCharacterCount": 403,
+      "createdDate": 1668515182787,
+      "modifiedDate": 1668516020365
+    },
+    "Type template literals.md": {
+      "noteCount": 1,
+      "wordCount": 244,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 2563,
+      "nonWhitespaceCharacterCount": 2240,
+      "createdDate": 1667783513062,
+      "modifiedDate": 1667783577265
+    },
+    "Type template literals, utility types, and operators.md": {
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 713,
+      "nonWhitespaceCharacterCount": 636,
+      "createdDate": 1668520239574,
+      "modifiedDate": 1668520801309
+    },
+    "The Context API.md": {
+      "noteCount": 1,
+      "wordCount": 817,
+      "pageCount": 2.723333333333333,
+      "characterCount": 5979,
+      "nonWhitespaceCharacterCount": 4873,
+      "createdDate": 1668173754889,
+      "modifiedDate": 1668519497935
+    },
+    "The Context API, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 107,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 682,
+      "nonWhitespaceCharacterCount": 573,
+      "createdDate": 1668462702499,
+      "modifiedDate": 1668519851553
+    },
+    "State and events, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 95,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 729,
+      "nonWhitespaceCharacterCount": 627,
+      "createdDate": 1668168165333,
+      "modifiedDate": 1668514199503
+    },
+    "State and events, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 573,
+      "pageCount": 1.91,
+      "characterCount": 3908,
+      "nonWhitespaceCharacterCount": 3262,
+      "createdDate": 1668171623085,
+      "modifiedDate": 1668514992255
+    },
+    "Setting state without a default value.md": {
+      "noteCount": 1,
+      "wordCount": 406,
+      "pageCount": 1.3533333333333333,
+      "characterCount": 2850,
+      "nonWhitespaceCharacterCount": 2347,
+      "createdDate": 1668161858599,
+      "modifiedDate": 1668514097424
+    },
+    "Requiring prop combinations.md": {
+      "noteCount": 1,
+      "wordCount": 810,
+      "pageCount": 2.7,
+      "characterCount": 6234,
+      "nonWhitespaceCharacterCount": 5094,
+      "createdDate": 1668453956391,
+      "modifiedDate": 1668454295427
+    },
+    "Repositories and Sandboxes.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 655,
+      "nonWhitespaceCharacterCount": 612,
+      "createdDate": 1668507209081,
+      "modifiedDate": 1668521042921
+    },
+    "Render props.md": {
+      "noteCount": 1,
+      "wordCount": 470,
+      "pageCount": 1.5666666666666667,
+      "characterCount": 3046,
+      "nonWhitespaceCharacterCount": 2527,
+      "createdDate": 1667227266238,
+      "modifiedDate": 1668222442499
+    },
+    "Refactoring from PropTypes, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 276,
+      "pageCount": 0.92,
+      "characterCount": 2029,
+      "nonWhitespaceCharacterCount": 1619,
+      "createdDate": 1667777296182,
+      "modifiedDate": 1668508664127
+    },
+    "Refactoring from PropTypes, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 608,
+      "pageCount": 2.026666666666667,
+      "characterCount": 4444,
+      "nonWhitespaceCharacterCount": 3695,
+      "createdDate": 1667777467475,
+      "modifiedDate": 1668509539143
+    },
+    "React.ComponentType.md": {
+      "noteCount": 1,
+      "wordCount": 303,
+      "pageCount": 1.01,
+      "characterCount": 2604,
+      "nonWhitespaceCharacterCount": 2199,
+      "createdDate": 1667253155759,
+      "modifiedDate": 1667293918443
+    },
+    "React's built-in event handlers.md": {
+      "noteCount": 1,
+      "wordCount": 142,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 1052,
+      "nonWhitespaceCharacterCount": 881,
+      "createdDate": 1667782802913,
+      "modifiedDate": 1667783188428
+    },
+    "README.md": {
+      "noteCount": 1,
+      "wordCount": 305,
+      "pageCount": 1.0166666666666666,
+      "characterCount": 3336,
+      "nonWhitespaceCharacterCount": 2983,
+      "createdDate": 1666107945299,
+      "modifiedDate": 1668521089716
+    },
+    "Polymorphic components.md": {
+      "noteCount": 1,
+      "wordCount": 768,
+      "pageCount": 2.56,
+      "characterCount": 5643,
+      "nonWhitespaceCharacterCount": 4750,
+      "createdDate": 1665401250030,
+      "modifiedDate": 1668521005842
+    },
+    "Permitting props with disjointed unions.md": {
+      "noteCount": 1,
+      "wordCount": 196,
+      "pageCount": 0.6533333333333333,
+      "characterCount": 1462,
+      "nonWhitespaceCharacterCount": 1211,
+      "createdDate": 1665401126639,
+      "modifiedDate": 1667293918451
+    },
+    "Passing setState and reusing events, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 156,
+      "pageCount": 0.52,
+      "characterCount": 1387,
+      "nonWhitespaceCharacterCount": 945,
+      "createdDate": 1668456527090,
+      "modifiedDate": 1668515028212
+    },
+    "Passing setState and reusing events, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 574,
+      "pageCount": 1.9133333333333333,
+      "characterCount": 4278,
+      "nonWhitespaceCharacterCount": 3368,
+      "createdDate": 1668436759872,
+      "modifiedDate": 1668515180013
+    },
+    "Passing dispatch as a prop.md": {
+      "noteCount": 1,
+      "wordCount": 977,
+      "pageCount": 3.256666666666667,
+      "characterCount": 7366,
+      "nonWhitespaceCharacterCount": 5850,
+      "createdDate": 1668174834341,
+      "modifiedDate": 1668519348070
+    },
+    "Mirroring, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 142,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 1019,
+      "nonWhitespaceCharacterCount": 861,
+      "createdDate": 1668477138687,
+      "modifiedDate": 1668520912665
+    },
+    "Mirroring, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 221,
+      "pageCount": 0.7366666666666667,
+      "characterCount": 1481,
+      "nonWhitespaceCharacterCount": 1229,
+      "createdDate": 1668477687808,
+      "modifiedDate": 1668478305528
+    },
+    "Mirroring HTML components.md": {
+      "noteCount": 1,
+      "wordCount": 501,
+      "pageCount": 1.67,
+      "characterCount": 3231,
+      "nonWhitespaceCharacterCount": 2633,
+      "createdDate": 1668475222433,
+      "modifiedDate": 1668520844647
+    },
+    "Migrating from PropTypes.md": {
+      "noteCount": 1,
+      "wordCount": 690,
+      "pageCount": 2.3,
+      "characterCount": 4275,
+      "nonWhitespaceCharacterCount": 3464,
+      "createdDate": 1667773830083,
+      "modifiedDate": 1668508393172
+    },
+    "Limiting prop combinations.md": {
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1708,
+      "nonWhitespaceCharacterCount": 1462,
+      "createdDate": 1666114523093,
+      "modifiedDate": 1668484402592
+    },
+    "Limiting prop combinations with disjointed unions.md": {
+      "noteCount": 1,
+      "wordCount": 77,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 715,
+      "nonWhitespaceCharacterCount": 634,
+      "createdDate": 1666114525091,
+      "modifiedDate": 1667293918456
+    },
+    "Introduction.md": {
+      "noteCount": 1,
+      "wordCount": 1247,
+      "pageCount": 4.156666666666666,
+      "characterCount": 7902,
+      "nonWhitespaceCharacterCount": 6619,
+      "createdDate": 1666114406899,
+      "modifiedDate": 1668507075115
+    },
+    "Higher-order components.md": {
+      "noteCount": 1,
+      "wordCount": 881,
+      "pageCount": 2.9366666666666665,
+      "characterCount": 6321,
+      "nonWhitespaceCharacterCount": 5071,
+      "createdDate": 1666114520182,
+      "modifiedDate": 1668223382774
+    },
+    "Generics.md": {
+      "noteCount": 1,
+      "wordCount": 456,
+      "pageCount": 1.52,
+      "characterCount": 2936,
+      "nonWhitespaceCharacterCount": 2414,
+      "createdDate": 1667783338404,
+      "modifiedDate": 1668517188918
+    },
+    "Function overloads.md": {
+      "noteCount": 1,
+      "wordCount": 153,
+      "pageCount": 0.51,
+      "characterCount": 1449,
+      "nonWhitespaceCharacterCount": 1278,
+      "createdDate": 1667228173247,
+      "modifiedDate": 1667327493905
+    },
+    "Deriving a partial type for updating, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 743,
+      "nonWhitespaceCharacterCount": 604,
+      "createdDate": 1668462489470,
+      "modifiedDate": 1668462579409
+    },
+    "Deriving a partial type for updating, a problem statement.md": {
+      "noteCount": 1,
+      "wordCount": 145,
+      "pageCount": 0.48333333333333334,
+      "characterCount": 982,
+      "nonWhitespaceCharacterCount": 814,
+      "createdDate": 1668461965601,
+      "modifiedDate": 1668462501839
+    },
+    "Custom hooks.md": {
+      "noteCount": 1,
+      "wordCount": 211,
+      "pageCount": 0.7033333333333334,
+      "characterCount": 1625,
+      "nonWhitespaceCharacterCount": 1267,
+      "createdDate": 1668221885513,
+      "modifiedDate": 1668223143424
+    },
+    "Custom Context hooks.md": {
+      "noteCount": 1,
+      "wordCount": 460,
+      "pageCount": 1.5333333333333334,
+      "characterCount": 3301,
+      "nonWhitespaceCharacterCount": 2651,
+      "createdDate": 1668213343874,
+      "modifiedDate": 1668520661612
+    },
+    "Creating your own utility types.md": {
+      "noteCount": 1,
+      "wordCount": 30,
+      "pageCount": 0.1,
+      "characterCount": 422,
+      "nonWhitespaceCharacterCount": 391,
+      "createdDate": 1666114514903,
+      "modifiedDate": 1667293918462
+    },
+    "Context API, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 908,
+      "pageCount": 3.026666666666667,
+      "characterCount": 6680,
+      "nonWhitespaceCharacterCount": 5355,
+      "createdDate": 1668459496337,
+      "modifiedDate": 1668519741736
+    },
+    "Commonly-used props.md": {
+      "noteCount": 1,
+      "wordCount": 605,
+      "pageCount": 2.0166666666666666,
+      "characterCount": 3714,
+      "nonWhitespaceCharacterCount": 2994,
+      "createdDate": 1667778854179,
+      "modifiedDate": 1667780427035
+    },
+    "Built-in helpers for typing children in React.md": {
+      "noteCount": 1,
+      "wordCount": 176,
+      "pageCount": 0.5866666666666667,
+      "characterCount": 1545,
+      "nonWhitespaceCharacterCount": 1335,
+      "createdDate": 1665400590225,
+      "modifiedDate": 1668510866065
+    },
+    "Better typing for number inputs using template literals.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 296,
+      "createdDate": 1668438193139,
+      "modifiedDate": 1668452908100
+    },
+    "Adding state to Accident Counter.md": {
+      "noteCount": 1,
+      "wordCount": 393,
+      "pageCount": 1.31,
+      "characterCount": 3068,
+      "nonWhitespaceCharacterCount": 2450,
+      "createdDate": 1667826836020,
+      "modifiedDate": 1668511124446
+    },
+    "A Generics Exercise.md": {
+      "noteCount": 1,
+      "wordCount": 151,
+      "pageCount": 0.5033333333333333,
+      "characterCount": 963,
+      "nonWhitespaceCharacterCount": 801,
+      "createdDate": 1668517222754,
+      "modifiedDate": 1668517228475
+    }
+  }
+}

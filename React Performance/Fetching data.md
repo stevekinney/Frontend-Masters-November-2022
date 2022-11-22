@@ -1,0 +1,3 @@
+According to [React's official documentation](https://reactjs.org/docs/hooks-effect.html) the `useEffect` hook runs _after_ the rendering of the component hierarchy completes.
+
+This makes it a not-great place to make API calls, because we render everything and _then_ we call all of the `useEffect` callbacks, then we update the state, and re-rerender everything again. That's not great. It would be better to do in parallel instead of _after_ at the very least.

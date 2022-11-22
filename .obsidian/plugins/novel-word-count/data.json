@@ -1,0 +1,1230 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "none",
+    "countType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "inline",
+    "debugMode": false,
+    "wordsPerPage": 300,
+    "charsPerPage": 1500,
+    "pageCountType": "ByWords"
+  },
+  "cachedCounts": {
+    "React and TypeScript/useState, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 76,
+      "pageCount": 0.25333333333333335,
+      "characterCount": 582,
+      "nonWhitespaceCharacterCount": 489,
+      "createdDate": 1667827646290,
+      "modifiedDate": 1668511153949
+    },
+    "React and TypeScript/useState, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 853,
+      "pageCount": 2.8433333333333333,
+      "characterCount": 5308,
+      "nonWhitespaceCharacterCount": 4381,
+      "createdDate": 1667828083564,
+      "modifiedDate": 1668511405052
+    },
+    "React and TypeScript/createContext.md": {
+      "noteCount": 1,
+      "wordCount": 712,
+      "pageCount": 2.3733333333333335,
+      "characterCount": 4710,
+      "nonWhitespaceCharacterCount": 3885,
+      "createdDate": 1668174962884,
+      "modifiedDate": 1668520779796
+    },
+    "React and TypeScript/Utility types.md": {
+      "noteCount": 1,
+      "wordCount": 736,
+      "pageCount": 2.453333333333333,
+      "characterCount": 3952,
+      "nonWhitespaceCharacterCount": 3110,
+      "createdDate": 1668203164894,
+      "modifiedDate": 1668520040560
+    },
+    "React and TypeScript/Using state management and the Context API.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668519538051,
+      "modifiedDate": 1668519538051
+    },
+    "React and TypeScript/Using TypeScript without even trying.md": {
+      "noteCount": 1,
+      "wordCount": 427,
+      "pageCount": 1.4233333333333333,
+      "characterCount": 2765,
+      "nonWhitespaceCharacterCount": 2247,
+      "createdDate": 1666114426986,
+      "modifiedDate": 1668507745937
+    },
+    "React and TypeScript/Typing reducers.md": {
+      "noteCount": 1,
+      "wordCount": 1414,
+      "pageCount": 4.713333333333333,
+      "characterCount": 10613,
+      "nonWhitespaceCharacterCount": 8768,
+      "createdDate": 1667836796386,
+      "modifiedDate": 1668516450374
+    },
+    "React and TypeScript/Typing children, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 313,
+      "pageCount": 1.0433333333333332,
+      "characterCount": 2227,
+      "nonWhitespaceCharacterCount": 1764,
+      "createdDate": 1666114430033,
+      "modifiedDate": 1668510091341
+    },
+    "React and TypeScript/Typing actions and reducers, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 91,
+      "pageCount": 0.30333333333333334,
+      "characterCount": 597,
+      "nonWhitespaceCharacterCount": 504,
+      "createdDate": 1668199604085,
+      "modifiedDate": 1668519394891
+    },
+    "React and TypeScript/Typing children, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 351,
+      "pageCount": 1.17,
+      "characterCount": 2541,
+      "nonWhitespaceCharacterCount": 1996,
+      "createdDate": 1667780759888,
+      "modifiedDate": 1668510204284
+    },
+    "React and TypeScript/Typing actions and reducers, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 245,
+      "pageCount": 0.8166666666666667,
+      "characterCount": 2093,
+      "nonWhitespaceCharacterCount": 1657,
+      "createdDate": 1668174870484,
+      "modifiedDate": 1668519438087
+    },
+    "React and TypeScript/Types versus interfaces.md": {
+      "noteCount": 1,
+      "wordCount": 188,
+      "pageCount": 0.6266666666666667,
+      "characterCount": 1342,
+      "nonWhitespaceCharacterCount": 1139,
+      "createdDate": 1668223779188,
+      "modifiedDate": 1668223852182
+    },
+    "React and TypeScript/TypeScript's unions in React.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 475,
+      "nonWhitespaceCharacterCount": 403,
+      "createdDate": 1668515182787,
+      "modifiedDate": 1668516020365
+    },
+    "React and TypeScript/Type template literals.md": {
+      "noteCount": 1,
+      "wordCount": 244,
+      "pageCount": 0.8133333333333334,
+      "characterCount": 2563,
+      "nonWhitespaceCharacterCount": 2240,
+      "createdDate": 1667783513062,
+      "modifiedDate": 1667783577265
+    },
+    "React and TypeScript/Type template literals, utility types, and operators.md": {
+      "noteCount": 1,
+      "wordCount": 62,
+      "pageCount": 0.20666666666666667,
+      "characterCount": 713,
+      "nonWhitespaceCharacterCount": 636,
+      "createdDate": 1668520239574,
+      "modifiedDate": 1668520801309
+    },
+    "React and TypeScript/The Context API.md": {
+      "noteCount": 1,
+      "wordCount": 817,
+      "pageCount": 2.723333333333333,
+      "characterCount": 5979,
+      "nonWhitespaceCharacterCount": 4873,
+      "createdDate": 1668173754889,
+      "modifiedDate": 1668519497935
+    },
+    "React and TypeScript/The Context API, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 107,
+      "pageCount": 0.3566666666666667,
+      "characterCount": 682,
+      "nonWhitespaceCharacterCount": 573,
+      "createdDate": 1668462702499,
+      "modifiedDate": 1668519851553
+    },
+    "React and TypeScript/State and events, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 95,
+      "pageCount": 0.31666666666666665,
+      "characterCount": 729,
+      "nonWhitespaceCharacterCount": 627,
+      "createdDate": 1668168165333,
+      "modifiedDate": 1668514199503
+    },
+    "React and TypeScript/State and events, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 573,
+      "pageCount": 1.91,
+      "characterCount": 3908,
+      "nonWhitespaceCharacterCount": 3262,
+      "createdDate": 1668171623085,
+      "modifiedDate": 1668514992255
+    },
+    "React and TypeScript/Setting state without a default value.md": {
+      "noteCount": 1,
+      "wordCount": 406,
+      "pageCount": 1.3533333333333333,
+      "characterCount": 2850,
+      "nonWhitespaceCharacterCount": 2347,
+      "createdDate": 1668161858599,
+      "modifiedDate": 1668514097424
+    },
+    "React and TypeScript/Requiring prop combinations.md": {
+      "noteCount": 1,
+      "wordCount": 810,
+      "pageCount": 2.7,
+      "characterCount": 6234,
+      "nonWhitespaceCharacterCount": 5094,
+      "createdDate": 1668453956391,
+      "modifiedDate": 1668454295427
+    },
+    "React and TypeScript/Repositories and Sandboxes.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 655,
+      "nonWhitespaceCharacterCount": 612,
+      "createdDate": 1668507209081,
+      "modifiedDate": 1668521042921
+    },
+    "React and TypeScript/Render props.md": {
+      "noteCount": 1,
+      "wordCount": 470,
+      "pageCount": 1.5666666666666667,
+      "characterCount": 3046,
+      "nonWhitespaceCharacterCount": 2527,
+      "createdDate": 1667227266238,
+      "modifiedDate": 1668222442499
+    },
+    "React and TypeScript/Refactoring from PropTypes, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 276,
+      "pageCount": 0.92,
+      "characterCount": 2029,
+      "nonWhitespaceCharacterCount": 1619,
+      "createdDate": 1667777296182,
+      "modifiedDate": 1668508664127
+    },
+    "React and TypeScript/Refactoring from PropTypes, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 608,
+      "pageCount": 2.026666666666667,
+      "characterCount": 4444,
+      "nonWhitespaceCharacterCount": 3695,
+      "createdDate": 1667777467475,
+      "modifiedDate": 1668509539143
+    },
+    "React and TypeScript/React.ComponentType.md": {
+      "noteCount": 1,
+      "wordCount": 303,
+      "pageCount": 1.01,
+      "characterCount": 2604,
+      "nonWhitespaceCharacterCount": 2199,
+      "createdDate": 1667253155759,
+      "modifiedDate": 1667293918443
+    },
+    "React and TypeScript/React's built-in event handlers.md": {
+      "noteCount": 1,
+      "wordCount": 142,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 1052,
+      "nonWhitespaceCharacterCount": 881,
+      "createdDate": 1667782802913,
+      "modifiedDate": 1667783188428
+    },
+    "React and TypeScript/README.md": {
+      "noteCount": 1,
+      "wordCount": 305,
+      "pageCount": 1.0166666666666666,
+      "characterCount": 3336,
+      "nonWhitespaceCharacterCount": 2983,
+      "createdDate": 1666107945299,
+      "modifiedDate": 1668521089716
+    },
+    "React and TypeScript/Polymorphic components.md": {
+      "noteCount": 1,
+      "wordCount": 768,
+      "pageCount": 2.56,
+      "characterCount": 5643,
+      "nonWhitespaceCharacterCount": 4750,
+      "createdDate": 1665401250030,
+      "modifiedDate": 1668521005842
+    },
+    "React and TypeScript/Permitting props with disjointed unions.md": {
+      "noteCount": 1,
+      "wordCount": 196,
+      "pageCount": 0.6533333333333333,
+      "characterCount": 1462,
+      "nonWhitespaceCharacterCount": 1211,
+      "createdDate": 1665401126639,
+      "modifiedDate": 1667293918451
+    },
+    "React and TypeScript/Passing setState and reusing events, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 156,
+      "pageCount": 0.52,
+      "characterCount": 1387,
+      "nonWhitespaceCharacterCount": 945,
+      "createdDate": 1668456527090,
+      "modifiedDate": 1668515028212
+    },
+    "React and TypeScript/Passing setState and reusing events, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 574,
+      "pageCount": 1.9133333333333333,
+      "characterCount": 4278,
+      "nonWhitespaceCharacterCount": 3368,
+      "createdDate": 1668436759872,
+      "modifiedDate": 1668515180013
+    },
+    "React and TypeScript/Passing dispatch as a prop.md": {
+      "noteCount": 1,
+      "wordCount": 977,
+      "pageCount": 3.256666666666667,
+      "characterCount": 7366,
+      "nonWhitespaceCharacterCount": 5850,
+      "createdDate": 1668174834341,
+      "modifiedDate": 1668519348070
+    },
+    "React and TypeScript/Mirroring, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 142,
+      "pageCount": 0.47333333333333333,
+      "characterCount": 1019,
+      "nonWhitespaceCharacterCount": 861,
+      "createdDate": 1668477138687,
+      "modifiedDate": 1668520912665
+    },
+    "React and TypeScript/Mirroring, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 221,
+      "pageCount": 0.7366666666666667,
+      "characterCount": 1481,
+      "nonWhitespaceCharacterCount": 1229,
+      "createdDate": 1668477687808,
+      "modifiedDate": 1668478305528
+    },
+    "React and TypeScript/Mirroring HTML components.md": {
+      "noteCount": 1,
+      "wordCount": 501,
+      "pageCount": 1.67,
+      "characterCount": 3231,
+      "nonWhitespaceCharacterCount": 2633,
+      "createdDate": 1668475222433,
+      "modifiedDate": 1668520844647
+    },
+    "React and TypeScript/Migrating from PropTypes.md": {
+      "noteCount": 1,
+      "wordCount": 690,
+      "pageCount": 2.3,
+      "characterCount": 4275,
+      "nonWhitespaceCharacterCount": 3464,
+      "createdDate": 1667773830083,
+      "modifiedDate": 1668508393172
+    },
+    "React and TypeScript/Limiting prop combinations.md": {
+      "noteCount": 1,
+      "wordCount": 187,
+      "pageCount": 0.6233333333333333,
+      "characterCount": 1708,
+      "nonWhitespaceCharacterCount": 1462,
+      "createdDate": 1666114523093,
+      "modifiedDate": 1668484402592
+    },
+    "React and TypeScript/Limiting prop combinations with disjointed unions.md": {
+      "noteCount": 1,
+      "wordCount": 77,
+      "pageCount": 0.25666666666666665,
+      "characterCount": 715,
+      "nonWhitespaceCharacterCount": 634,
+      "createdDate": 1666114525091,
+      "modifiedDate": 1667293918456
+    },
+    "React and TypeScript/Custom hooks.md": {
+      "noteCount": 1,
+      "wordCount": 211,
+      "pageCount": 0.7033333333333334,
+      "characterCount": 1625,
+      "nonWhitespaceCharacterCount": 1267,
+      "createdDate": 1668221885513,
+      "modifiedDate": 1668223143424
+    },
+    "React and TypeScript/Introduction.md": {
+      "noteCount": 1,
+      "wordCount": 1247,
+      "pageCount": 4.156666666666666,
+      "characterCount": 7902,
+      "nonWhitespaceCharacterCount": 6619,
+      "createdDate": 1666114406899,
+      "modifiedDate": 1668507075115
+    },
+    "React and TypeScript/Higher-order components.md": {
+      "noteCount": 1,
+      "wordCount": 881,
+      "pageCount": 2.9366666666666665,
+      "characterCount": 6321,
+      "nonWhitespaceCharacterCount": 5071,
+      "createdDate": 1666114520182,
+      "modifiedDate": 1668223382774
+    },
+    "React and TypeScript/Generics.md": {
+      "noteCount": 1,
+      "wordCount": 456,
+      "pageCount": 1.52,
+      "characterCount": 2936,
+      "nonWhitespaceCharacterCount": 2414,
+      "createdDate": 1667783338404,
+      "modifiedDate": 1668517188918
+    },
+    "React and TypeScript/Function overloads.md": {
+      "noteCount": 1,
+      "wordCount": 153,
+      "pageCount": 0.51,
+      "characterCount": 1449,
+      "nonWhitespaceCharacterCount": 1278,
+      "createdDate": 1667228173247,
+      "modifiedDate": 1667327493905
+    },
+    "React and TypeScript/Deriving a partial type for updating, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 108,
+      "pageCount": 0.36,
+      "characterCount": 743,
+      "nonWhitespaceCharacterCount": 604,
+      "createdDate": 1668462489470,
+      "modifiedDate": 1668462579409
+    },
+    "React and TypeScript/Deriving a partial type for updating, a problem statement.md": {
+      "noteCount": 1,
+      "wordCount": 145,
+      "pageCount": 0.48333333333333334,
+      "characterCount": 982,
+      "nonWhitespaceCharacterCount": 814,
+      "createdDate": 1668461965601,
+      "modifiedDate": 1668462501839
+    },
+    "React and TypeScript/Custom Context hooks.md": {
+      "noteCount": 1,
+      "wordCount": 460,
+      "pageCount": 1.5333333333333334,
+      "characterCount": 3301,
+      "nonWhitespaceCharacterCount": 2651,
+      "createdDate": 1668213343874,
+      "modifiedDate": 1668520661612
+    },
+    "React and TypeScript/Creating your own utility types.md": {
+      "noteCount": 1,
+      "wordCount": 30,
+      "pageCount": 0.1,
+      "characterCount": 422,
+      "nonWhitespaceCharacterCount": 391,
+      "createdDate": 1666114514903,
+      "modifiedDate": 1667293918462
+    },
+    "React and TypeScript/Context API, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 908,
+      "pageCount": 3.026666666666667,
+      "characterCount": 6680,
+      "nonWhitespaceCharacterCount": 5355,
+      "createdDate": 1668459496337,
+      "modifiedDate": 1668519741736
+    },
+    "React and TypeScript/Commonly-used props.md": {
+      "noteCount": 1,
+      "wordCount": 605,
+      "pageCount": 2.0166666666666666,
+      "characterCount": 3714,
+      "nonWhitespaceCharacterCount": 2994,
+      "createdDate": 1667778854179,
+      "modifiedDate": 1667780427035
+    },
+    "React and TypeScript/Built-in helpers for typing children in React.md": {
+      "noteCount": 1,
+      "wordCount": 176,
+      "pageCount": 0.5866666666666667,
+      "characterCount": 1545,
+      "nonWhitespaceCharacterCount": 1335,
+      "createdDate": 1665400590225,
+      "modifiedDate": 1668510866065
+    },
+    "React and TypeScript/Better typing for number inputs using template literals.md": {
+      "noteCount": 1,
+      "wordCount": 52,
+      "pageCount": 0.17333333333333334,
+      "characterCount": 348,
+      "nonWhitespaceCharacterCount": 296,
+      "createdDate": 1668438193139,
+      "modifiedDate": 1668452908100
+    },
+    "React and TypeScript/Adding state to Accident Counter.md": {
+      "noteCount": 1,
+      "wordCount": 393,
+      "pageCount": 1.31,
+      "characterCount": 3068,
+      "nonWhitespaceCharacterCount": 2450,
+      "createdDate": 1667826836020,
+      "modifiedDate": 1668511124446
+    },
+    "React and TypeScript/A Generics Exercise.md": {
+      "noteCount": 1,
+      "wordCount": 151,
+      "pageCount": 0.5033333333333333,
+      "characterCount": 963,
+      "nonWhitespaceCharacterCount": 801,
+      "createdDate": 1668517222754,
+      "modifiedDate": 1668517228475
+    },
+    "React Performance/useTransition.md": {
+      "noteCount": 1,
+      "wordCount": 295,
+      "pageCount": 0.9833333333333333,
+      "characterCount": 2133,
+      "nonWhitespaceCharacterCount": 1723,
+      "createdDate": 1668312560122,
+      "modifiedDate": 1668325189768
+    },
+    "React Performance/useSyncExternalStore.md": {
+      "noteCount": 1,
+      "wordCount": 225,
+      "pageCount": 0.75,
+      "characterCount": 1566,
+      "nonWhitespaceCharacterCount": 1328,
+      "createdDate": 1666464562496,
+      "modifiedDate": 1668592465637
+    },
+    "React Performance/useMemo and useCallback.md": {
+      "noteCount": 1,
+      "wordCount": 394,
+      "pageCount": 1.3133333333333332,
+      "characterCount": 2889,
+      "nonWhitespaceCharacterCount": 2479,
+      "createdDate": 1666029099059,
+      "modifiedDate": 1668288577805
+    },
+    "React Performance/useDeferredValue.md": {
+      "noteCount": 1,
+      "wordCount": 117,
+      "pageCount": 0.39,
+      "characterCount": 817,
+      "nonWhitespaceCharacterCount": 695,
+      "createdDate": 1666464044317,
+      "modifiedDate": 1668693388780
+    },
+    "React Performance/useContext and the Context API.md": {
+      "noteCount": 1,
+      "wordCount": 455,
+      "pageCount": 1.5166666666666666,
+      "characterCount": 2989,
+      "nonWhitespaceCharacterCount": 2453,
+      "createdDate": 1666027580730,
+      "modifiedDate": 1668596450103
+    },
+    "React Performance/startTransition API.md": {
+      "noteCount": 1,
+      "wordCount": 295,
+      "pageCount": 0.9833333333333333,
+      "characterCount": 1836,
+      "nonWhitespaceCharacterCount": 1518,
+      "createdDate": 1668591576041,
+      "modifiedDate": 1668600759633
+    },
+    "React Performance/render versus createRoot.md": {
+      "noteCount": 1,
+      "wordCount": 300,
+      "pageCount": 1,
+      "characterCount": 1929,
+      "nonWhitespaceCharacterCount": 1623,
+      "createdDate": 1666459983439,
+      "modifiedDate": 1668288255713
+    },
+    "React Performance/Transitions.md": {
+      "noteCount": 1,
+      "wordCount": 340,
+      "pageCount": 1.1333333333333333,
+      "characterCount": 1960,
+      "nonWhitespaceCharacterCount": 1609,
+      "createdDate": 1666110523573,
+      "modifiedDate": 1668639026093
+    },
+    "React Performance/The component lifecycle.md": {
+      "noteCount": 1,
+      "wordCount": 918,
+      "pageCount": 3.06,
+      "characterCount": 5616,
+      "nonWhitespaceCharacterCount": 4666,
+      "createdDate": 1668287460385,
+      "modifiedDate": 1668687291803
+    },
+    "React Performance/Tearing.md": {
+      "noteCount": 1,
+      "wordCount": 165,
+      "pageCount": 0.55,
+      "characterCount": 1001,
+      "nonWhitespaceCharacterCount": 834,
+      "createdDate": 1668591816634,
+      "modifiedDate": 1668592414049
+    },
+    "React Performance/Suspense.md": {
+      "noteCount": 1,
+      "wordCount": 164,
+      "pageCount": 0.5466666666666666,
+      "characterCount": 1459,
+      "nonWhitespaceCharacterCount": 1288,
+      "createdDate": 1666464859572,
+      "modifiedDate": 1668629633726
+    },
+    "React Performance/Strict mode.md": {
+      "noteCount": 1,
+      "wordCount": 104,
+      "pageCount": 0.3466666666666667,
+      "characterCount": 610,
+      "nonWhitespaceCharacterCount": 505,
+      "createdDate": 1666463798943,
+      "modifiedDate": 1668287684197
+    },
+    "React Performance/Steve's Golden Rule of Performance.md": {
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 93,
+      "nonWhitespaceCharacterCount": 78,
+      "createdDate": 1666029403700,
+      "modifiedDate": 1666117173217
+    },
+    "React Performance/Selecting data versus storing it.md": {
+      "noteCount": 1,
+      "wordCount": 149,
+      "pageCount": 0.49666666666666665,
+      "characterCount": 822,
+      "nonWhitespaceCharacterCount": 668,
+      "createdDate": 1666035192720,
+      "modifiedDate": 1666117173215
+    },
+    "React Performance/Running the developer tools in product mode.md": {
+      "noteCount": 1,
+      "wordCount": 35,
+      "pageCount": 0.11666666666666667,
+      "characterCount": 329,
+      "nonWhitespaceCharacterCount": 293,
+      "createdDate": 1668595884761,
+      "modifiedDate": 1668596053735
+    },
+    "React Performance/Rendering in React.md": {
+      "noteCount": 1,
+      "wordCount": 494,
+      "pageCount": 1.6466666666666667,
+      "characterCount": 2998,
+      "nonWhitespaceCharacterCount": 2493,
+      "createdDate": 1666031226514,
+      "modifiedDate": 1668594373077
+    },
+    "React Performance/Referrential equality.md": {
+      "noteCount": 1,
+      "wordCount": 201,
+      "pageCount": 0.67,
+      "characterCount": 1281,
+      "nonWhitespaceCharacterCount": 1076,
+      "createdDate": 1668287091955,
+      "modifiedDate": 1668627566600
+    },
+    "React Performance/Refactoring to reducers (Solution).md": {
+      "noteCount": 1,
+      "wordCount": 116,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 912,
+      "nonWhitespaceCharacterCount": 701,
+      "createdDate": 1667678269659,
+      "modifiedDate": 1667678560516
+    },
+    "React Performance/React.memo.md": {
+      "noteCount": 1,
+      "wordCount": 949,
+      "pageCount": 3.1633333333333336,
+      "characterCount": 5532,
+      "nonWhitespaceCharacterCount": 4558,
+      "createdDate": 1666029139865,
+      "modifiedDate": 1668625938995
+    },
+    "React Performance/React.memo walkthough.md": {
+      "noteCount": 1,
+      "wordCount": 521,
+      "pageCount": 1.7366666666666666,
+      "characterCount": 3769,
+      "nonWhitespaceCharacterCount": 3056,
+      "createdDate": 1667668848390,
+      "modifiedDate": 1667671143131
+    },
+    "React Performance/React Developer Tools.md": {
+      "noteCount": 1,
+      "wordCount": 176,
+      "pageCount": 0.5866666666666667,
+      "characterCount": 1578,
+      "nonWhitespaceCharacterCount": 1396,
+      "createdDate": 1666117262507,
+      "modifiedDate": 1668595968219
+    },
+    "React Performance/README.md.md": {
+      "noteCount": 1,
+      "wordCount": 217,
+      "pageCount": 0.7233333333333334,
+      "characterCount": 2561,
+      "nonWhitespaceCharacterCount": 2317,
+      "createdDate": 1666107916123,
+      "modifiedDate": 1668699381249
+    },
+    "React Performance/Quick performance wins in React.md": {
+      "noteCount": 1,
+      "wordCount": 128,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 821,
+      "nonWhitespaceCharacterCount": 694,
+      "createdDate": 1668593497125,
+      "modifiedDate": 1668594987236
+    },
+    "React Performance/Pushing state down.md": {
+      "noteCount": 1,
+      "wordCount": 389,
+      "pageCount": 1.2966666666666666,
+      "characterCount": 2401,
+      "nonWhitespaceCharacterCount": 2000,
+      "createdDate": 1666029632621,
+      "modifiedDate": 1667668495773
+    },
+    "React Performance/Pushing state down, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 68,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 680,
+      "nonWhitespaceCharacterCount": 608,
+      "createdDate": 1668624494305,
+      "modifiedDate": 1668625789588
+    },
+    "React Performance/Pushing state down, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 74,
+      "pageCount": 0.24666666666666667,
+      "characterCount": 495,
+      "nonWhitespaceCharacterCount": 387,
+      "createdDate": 1668625111799,
+      "modifiedDate": 1668627500824
+    },
+    "React Performance/Pulling content up.md": {
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 286,
+      "nonWhitespaceCharacterCount": 266,
+      "createdDate": 1668594441793,
+      "modifiedDate": 1668594723031
+    },
+    "React Performance/Pulling content up, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 48,
+      "pageCount": 0.16,
+      "characterCount": 372,
+      "nonWhitespaceCharacterCount": 323,
+      "createdDate": 1668626830218,
+      "modifiedDate": 1668626972528
+    },
+    "React Performance/Pulling content up, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668626789738,
+      "modifiedDate": 1668626789738
+    },
+    "React Performance/Previous state and useCallback (Solution).md": {
+      "noteCount": 1,
+      "wordCount": 280,
+      "pageCount": 0.9333333333333333,
+      "characterCount": 2022,
+      "nonWhitespaceCharacterCount": 1611,
+      "createdDate": 1667674421454,
+      "modifiedDate": 1667675208370
+    },
+    "React Performance/Optimizing with useReducer.md": {
+      "noteCount": 1,
+      "wordCount": 1010,
+      "pageCount": 3.3666666666666667,
+      "characterCount": 7506,
+      "nonWhitespaceCharacterCount": 5814,
+      "createdDate": 1666877043078,
+      "modifiedDate": 1668627777990
+    },
+    "React Performance/Optimize the Context API, an exercise.md": {
+      "noteCount": 1,
+      "wordCount": 8,
+      "pageCount": 0.02666666666666667,
+      "characterCount": 47,
+      "nonWhitespaceCharacterCount": 40,
+      "createdDate": 1668628151971,
+      "modifiedDate": 1668628171565
+    },
+    "React Performance/Normalizing state.md": {
+      "noteCount": 1,
+      "wordCount": 150,
+      "pageCount": 0.5,
+      "characterCount": 1034,
+      "nonWhitespaceCharacterCount": 879,
+      "createdDate": 1666034164451,
+      "modifiedDate": 1667915582515
+    },
+    "React Performance/Is your application actually slow?.md": {
+      "noteCount": 1,
+      "wordCount": 249,
+      "pageCount": 0.83,
+      "characterCount": 1543,
+      "nonWhitespaceCharacterCount": 1274,
+      "createdDate": 1666033257300,
+      "modifiedDate": 1668594373059
+    },
+    "React Performance/Introduction.md": {
+      "noteCount": 1,
+      "wordCount": 673,
+      "pageCount": 2.243333333333333,
+      "characterCount": 4430,
+      "nonWhitespaceCharacterCount": 3731,
+      "createdDate": 1667913394718,
+      "modifiedDate": 1668677991262
+    },
+    "React Performance/Improving rendering performance.md": {
+      "noteCount": 1,
+      "wordCount": 122,
+      "pageCount": 0.4066666666666667,
+      "characterCount": 1012,
+      "nonWhitespaceCharacterCount": 888,
+      "createdDate": 1668287041507,
+      "modifiedDate": 1668287046680
+    },
+    "React Performance/Implementing a Transition.md": {
+      "noteCount": 1,
+      "wordCount": 36,
+      "pageCount": 0.12,
+      "characterCount": 423,
+      "nonWhitespaceCharacterCount": 385,
+      "createdDate": 1668639110978,
+      "modifiedDate": 1668640192407
+    },
+    "React Performance/Fetching data.md": {
+      "noteCount": 1,
+      "wordCount": 67,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 462,
+      "nonWhitespaceCharacterCount": 395,
+      "createdDate": 1666036759819,
+      "modifiedDate": 1668287348481
+    },
+    "React Performance/Context API Walkthrough.md": {
+      "noteCount": 1,
+      "wordCount": 821,
+      "pageCount": 2.736666666666667,
+      "characterCount": 5657,
+      "nonWhitespaceCharacterCount": 4591,
+      "createdDate": 1667681963298,
+      "modifiedDate": 1668628203977
+    },
+    "React Performance/Concurrent features.md": {
+      "noteCount": 1,
+      "wordCount": 0,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "createdDate": 1668288077373,
+      "modifiedDate": 1668288077373
+    },
+    "React Performance/Batching.md": {
+      "noteCount": 1,
+      "wordCount": 572,
+      "pageCount": 1.9066666666666667,
+      "characterCount": 3645,
+      "nonWhitespaceCharacterCount": 3051,
+      "createdDate": 1666466155389,
+      "modifiedDate": 1668286901190
+    },
+    "React Performance/Avoiding expesive state initialization, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 7,
+      "pageCount": 0.023333333333333334,
+      "characterCount": 45,
+      "nonWhitespaceCharacterCount": 38,
+      "createdDate": 1668627710115,
+      "modifiedDate": 1668627723870
+    },
+    "React Performance/Avoiding expensive state initialization.md": {
+      "noteCount": 1,
+      "wordCount": 128,
+      "pageCount": 0.4266666666666667,
+      "characterCount": 856,
+      "nonWhitespaceCharacterCount": 720,
+      "createdDate": 1668595076151,
+      "modifiedDate": 1668600744133
+    },
+    "React Performance/Abstracting our actions.md": {
+      "noteCount": 1,
+      "wordCount": 437,
+      "pageCount": 1.4566666666666668,
+      "characterCount": 3065,
+      "nonWhitespaceCharacterCount": 2503,
+      "createdDate": 1667679959290,
+      "modifiedDate": 1667681378230
+    },
+    "React Performance/A word on over-optimizing.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 324,
+      "nonWhitespaceCharacterCount": 284,
+      "createdDate": 1668593503813,
+      "modifiedDate": 1668593599149
+    },
+    "React Performance/A conundrum with useCallback and useMemo.md": {
+      "noteCount": 1,
+      "wordCount": 953,
+      "pageCount": 3.1766666666666667,
+      "characterCount": 6531,
+      "nonWhitespaceCharacterCount": 5406,
+      "createdDate": 1667671420735,
+      "modifiedDate": 1668288220180
+    },
+    "Advanced Redux/extraReducers.md": {
+      "noteCount": 1,
+      "wordCount": 344,
+      "pageCount": 1.1466666666666667,
+      "characterCount": 2290,
+      "nonWhitespaceCharacterCount": 1876,
+      "createdDate": 1668391062856,
+      "modifiedDate": 1668762159691
+    },
+    "Advanced Redux/createReducer.md": {
+      "noteCount": 1,
+      "wordCount": 418,
+      "pageCount": 1.3933333333333333,
+      "characterCount": 2780,
+      "nonWhitespaceCharacterCount": 2277,
+      "createdDate": 1668759048317,
+      "modifiedDate": 1668762397319
+    },
+    "Advanced Redux/createReducer Solution.md": {
+      "noteCount": 1,
+      "wordCount": 20,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 108,
+      "nonWhitespaceCharacterCount": 89,
+      "createdDate": 1668761415341,
+      "modifiedDate": 1668761477491
+    },
+    "Advanced Redux/createReducer Exercise.md": {
+      "noteCount": 1,
+      "wordCount": 15,
+      "pageCount": 0.05,
+      "characterCount": 95,
+      "nonWhitespaceCharacterCount": 81,
+      "createdDate": 1668761387272,
+      "modifiedDate": 1668761413068
+    },
+    "Advanced Redux/createAsyncThunk.md": {
+      "noteCount": 1,
+      "wordCount": 174,
+      "pageCount": 0.58,
+      "characterCount": 1271,
+      "nonWhitespaceCharacterCount": 1075,
+      "createdDate": 1668772361128,
+      "modifiedDate": 1668774118001
+    },
+    "Advanced Redux/createAction.md": {
+      "noteCount": 1,
+      "wordCount": 577,
+      "pageCount": 1.9233333333333333,
+      "characterCount": 3913,
+      "nonWhitespaceCharacterCount": 3222,
+      "createdDate": 1668757383105,
+      "modifiedDate": 1668761159206
+    },
+    "Advanced Redux/createAsyncThunk with Users (Exercise).md": {
+      "noteCount": 1,
+      "wordCount": 141,
+      "pageCount": 0.47,
+      "characterCount": 1219,
+      "nonWhitespaceCharacterCount": 949,
+      "createdDate": 1668774121464,
+      "modifiedDate": 1668775975003
+    },
+    "Advanced Redux/createAction Solution.md": {
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 75,
+      "nonWhitespaceCharacterCount": 67,
+      "createdDate": 1668761201069,
+      "modifiedDate": 1668761312935
+    },
+    "Advanced Redux/createAction Exercise.md": {
+      "noteCount": 1,
+      "wordCount": 16,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 96,
+      "nonWhitespaceCharacterCount": 81,
+      "createdDate": 1668761162088,
+      "modifiedDate": 1668761198724
+    },
+    "Advanced Redux/Writing a test for our extraReducer.md": {
+      "noteCount": 1,
+      "wordCount": 103,
+      "pageCount": 0.3433333333333333,
+      "characterCount": 714,
+      "nonWhitespaceCharacterCount": 565,
+      "createdDate": 1668393595219,
+      "modifiedDate": 1668762212538
+    },
+    "Advanced Redux/Usage with Streams.md": {
+      "noteCount": 1,
+      "wordCount": 72,
+      "pageCount": 0.24,
+      "characterCount": 405,
+      "nonWhitespaceCharacterCount": 329,
+      "createdDate": 1667399635148,
+      "modifiedDate": 1667399864034
+    },
+    "Advanced Redux/Undo history.md": {
+      "noteCount": 1,
+      "wordCount": 2,
+      "pageCount": 0.006666666666666667,
+      "characterCount": 62,
+      "nonWhitespaceCharacterCount": 61,
+      "createdDate": 1668277096143,
+      "modifiedDate": 1668277102346
+    },
+    "Advanced Redux/Testing task removal, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 50,
+      "pageCount": 0.16666666666666666,
+      "characterCount": 384,
+      "nonWhitespaceCharacterCount": 323,
+      "createdDate": 1668379905264,
+      "modifiedDate": 1668770471977
+    },
+    "Advanced Redux/Testing a slice.md": {
+      "noteCount": 1,
+      "wordCount": 261,
+      "pageCount": 0.87,
+      "characterCount": 1778,
+      "nonWhitespaceCharacterCount": 1434,
+      "createdDate": 1668378608717,
+      "modifiedDate": 1668770429662
+    },
+    "Advanced Redux/Super Kanban, eventual type.md": {
+      "noteCount": 1,
+      "wordCount": 45,
+      "pageCount": 0.15,
+      "characterCount": 308,
+      "nonWhitespaceCharacterCount": 233,
+      "createdDate": 1668367870616,
+      "modifiedDate": 1668367892733
+    },
+    "Advanced Redux/Testing Redux.md": {
+      "noteCount": 1,
+      "wordCount": 6,
+      "pageCount": 0.02,
+      "characterCount": 423,
+      "nonWhitespaceCharacterCount": 418,
+      "createdDate": 1666113810593,
+      "modifiedDate": 1667432617919
+    },
+    "Advanced Redux/Removing a task.md": {
+      "noteCount": 1,
+      "wordCount": 157,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 1202,
+      "nonWhitespaceCharacterCount": 929,
+      "createdDate": 1668377706600,
+      "modifiedDate": 1668768411804
+    },
+    "Advanced Redux/Redux with React Router.md": {
+      "noteCount": 1,
+      "wordCount": 40,
+      "pageCount": 0.13333333333333333,
+      "characterCount": 266,
+      "nonWhitespaceCharacterCount": 225,
+      "createdDate": 1667399472761,
+      "modifiedDate": 1667399582009
+    },
+    "Advanced Redux/RTK Query.md": {
+      "noteCount": 1,
+      "wordCount": 441,
+      "pageCount": 1.47,
+      "characterCount": 3506,
+      "nonWhitespaceCharacterCount": 2781,
+      "createdDate": 1668777881315,
+      "modifiedDate": 1668794398470
+    },
+    "Advanced Redux/README.md": {
+      "noteCount": 1,
+      "wordCount": 271,
+      "pageCount": 0.9033333333333333,
+      "characterCount": 2305,
+      "nonWhitespaceCharacterCount": 2020,
+      "createdDate": 1666107857706,
+      "modifiedDate": 1669038231230
+    },
+    "Advanced Redux/Normalizing state.md": {
+      "noteCount": 1,
+      "wordCount": 90,
+      "pageCount": 0.3,
+      "characterCount": 713,
+      "nonWhitespaceCharacterCount": 545,
+      "createdDate": 1668399229383,
+      "modifiedDate": 1668402016478
+    },
+    "Advanced Redux/Mutliple reducers listening to the same action.md": {
+      "noteCount": 1,
+      "wordCount": 9,
+      "pageCount": 0.03,
+      "characterCount": 50,
+      "nonWhitespaceCharacterCount": 42,
+      "createdDate": 1668781085022,
+      "modifiedDate": 1668781109371
+    },
+    "Advanced Redux/Loading states.md": {
+      "noteCount": 1,
+      "wordCount": 223,
+      "pageCount": 0.7433333333333333,
+      "characterCount": 1716,
+      "nonWhitespaceCharacterCount": 1396,
+      "createdDate": 1668776502352,
+      "modifiedDate": 1668794130050
+    },
+    "Advanced Redux/Introducting Superkanban.md": {
+      "noteCount": 1,
+      "wordCount": 161,
+      "pageCount": 0.5366666666666666,
+      "characterCount": 1144,
+      "nonWhitespaceCharacterCount": 935,
+      "createdDate": 1668365226909,
+      "modifiedDate": 1668765303773
+    },
+    "Advanced Redux/Implementing unassigning a user from tasks when removed.md": {
+      "noteCount": 1,
+      "wordCount": 106,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 923,
+      "nonWhitespaceCharacterCount": 711,
+      "createdDate": 1668393697314,
+      "modifiedDate": 1668770705264
+    },
+    "Advanced Redux/Immer.md": {
+      "noteCount": 1,
+      "wordCount": 1,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 49,
+      "nonWhitespaceCharacterCount": 49,
+      "createdDate": 1667398750336,
+      "modifiedDate": 1667440346806
+    },
+    "Advanced Redux/Handling RTK Query from other reducers.md": {
+      "noteCount": 1,
+      "wordCount": 41,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 355,
+      "nonWhitespaceCharacterCount": 262,
+      "createdDate": 1668794399731,
+      "modifiedDate": 1668794404628
+    },
+    "Advanced Redux/Editing a user's name.md": {
+      "noteCount": 1,
+      "wordCount": 286,
+      "pageCount": 0.9533333333333334,
+      "characterCount": 1841,
+      "nonWhitespaceCharacterCount": 1456,
+      "createdDate": 1668395384777,
+      "modifiedDate": 1668770869901
+    },
+    "Advanced Redux/Creating typed hooks for React.md": {
+      "noteCount": 1,
+      "wordCount": 675,
+      "pageCount": 2.25,
+      "characterCount": 4461,
+      "nonWhitespaceCharacterCount": 3627,
+      "createdDate": 1668374828212,
+      "modifiedDate": 1668767812458
+    },
+    "Advanced Redux/Creating custom hooks.md": {
+      "noteCount": 1,
+      "wordCount": 240,
+      "pageCount": 0.8,
+      "characterCount": 1788,
+      "nonWhitespaceCharacterCount": 1383,
+      "createdDate": 1668383364410,
+      "modifiedDate": 1668769427966
+    },
+    "Advanced Redux/Creating a user slice, a solution.md": {
+      "noteCount": 1,
+      "wordCount": 377,
+      "pageCount": 1.2566666666666666,
+      "characterCount": 2931,
+      "nonWhitespaceCharacterCount": 2305,
+      "createdDate": 1668380480441,
+      "modifiedDate": 1668769099547
+    },
+    "Advanced Redux/Creating a store.md": {
+      "noteCount": 1,
+      "wordCount": 628,
+      "pageCount": 2.0933333333333333,
+      "characterCount": 4024,
+      "nonWhitespaceCharacterCount": 3225,
+      "createdDate": 1668370980629,
+      "modifiedDate": 1668767057512
+    },
+    "Advanced Redux/Creating a slice.md": {
+      "noteCount": 1,
+      "wordCount": 504,
+      "pageCount": 1.68,
+      "characterCount": 3151,
+      "nonWhitespaceCharacterCount": 2597,
+      "createdDate": 1668363575384,
+      "modifiedDate": 1668766491583
+    },
+    "Advanced Redux/Creating a Slice (Old).md": {
+      "noteCount": 1,
+      "wordCount": 723,
+      "pageCount": 2.41,
+      "characterCount": 4953,
+      "nonWhitespaceCharacterCount": 4013,
+      "createdDate": 1668114254212,
+      "modifiedDate": 1668131023572
+    },
+    "Advanced Redux/Adding a type-safe action.md": {
+      "noteCount": 1,
+      "wordCount": 266,
+      "pageCount": 0.8866666666666667,
+      "characterCount": 1925,
+      "nonWhitespaceCharacterCount": 1582,
+      "createdDate": 1668368710795,
+      "modifiedDate": 1668767842394
+    }
+  }
+}

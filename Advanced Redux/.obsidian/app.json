@@ -1,0 +1,12 @@
+{
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "tabSize": 2,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "absolute",
+  "useMarkdownLinks": false,
+  "attachmentFolderPath": "./_attachments",
+  "newFileLocation": "current"
+}

@@ -1,0 +1,3 @@
+`StrictMode` is a component that doesn't render anything in your UI, but it opts you in to warnings and notices about potential problems in your application.
+
+When you're using strict mode in React 18 and later, React will _double render_ your components when running in development. This is why you might see `console.log`s executed twice (and why you can't rely on them to count the number of renders). If you _need_ to count renders, you probably want to consider using the developer tools or even just a `useEffect` hook so that you run this after the rendering phase and during the passive effects phase.

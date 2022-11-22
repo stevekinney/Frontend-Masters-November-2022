@@ -1,0 +1,19 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "💀 React Performance — Course Outline",
+      "path": "React Performance/💀 React Performance — Course Outline.md"
+    },
+    {
+      "type": "file",
+      "title": "💀 Advanced Redux — Course Outline",
+      "path": "Advanced Redux/💀 Advanced Redux — Course Outline.md"
+    },
+    {
+      "type": "file",
+      "title": "💀 React && TypeScript — Course Outline",
+      "path": "React && TypeScript/💀 React && TypeScript — Course Outline.md"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+Performance is obviously important, but sometimes the act of blindly optimizing performance can blow up in your face. You should always follow the [common advice for quick wins in React](Quick%20performance%20wins%20in%20React.md), but getting carried with things like [`React.memo`](React.memo.md) can have adverse effects.

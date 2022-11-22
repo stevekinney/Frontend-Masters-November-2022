@@ -1,0 +1,1 @@
+Now that we have those fundamentals in place, we can go [[Creating a store|wire up our tasks to the store]].
